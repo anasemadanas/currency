@@ -1,0 +1,7 @@
+Free Currency Exchange Rates API
+
+https://www.goldapi.io/
+
+https://github.com/fawazahmed0/exchange-api
+
+https://www.exchangerate-api.com/
